@@ -113,8 +113,9 @@ Dependencies
 
 ```txt
 requests==2.31.0
-pyTelegramBotAPI==4.21.1
+python-telegram-bot==20.7
 colorama==0.4.6
+termcolor==2.4.0
 ```
 
 Project Structure
