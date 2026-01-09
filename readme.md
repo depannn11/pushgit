@@ -1,4 +1,3 @@
-```md
 # 🤖 GitHub Upload Bot
 
 A powerful Telegram bot for automatic file uploads to GitHub repositories with multi-user support, ZIP auto-extraction, and real-time file management.
