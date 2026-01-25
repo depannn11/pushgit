@@ -1,4 +1,1 @@
-requests==2.31.0
-python-telegram-bot==20.7
-colorama==0.4.6
-termcolor==2.4.0
+requests>=2.31.0
